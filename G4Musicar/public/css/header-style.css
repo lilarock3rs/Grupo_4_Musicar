@@ -210,33 +210,4 @@ nav.nav-footer ul {
         width: 100vh;
     }
 
-    .contenedor-lista{
-        display: none;
-    }
-
- 
-    .nav-pagina{
-        padding-right: 0;
-    }
-
-    .boton-fixed{
-        right: 100px;
-        padding: 3px;
-    }
-
-    .lista-pagina{
-        display: none;
-    }
-
-
-    
-    .image-banner {
-        width: 100vh;
-        object-position: right;
-    }
-
-    .titulo-principal {
-        width: 100vh;
-    }
-
 }
