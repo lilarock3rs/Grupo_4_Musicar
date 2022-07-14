@@ -24,6 +24,7 @@ header {
     padding: 20px 0 15px 0;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     z-index: 1;
     position: absolute;
     width: 100%;
